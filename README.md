@@ -51,8 +51,6 @@ I’m enthusiastic about applying and enhancing my technical skills in a dynamic
 
 Feel free to browse my repositories and reach out if you have any cool projects or ideas. I’m always up for collaboration and learning new things!
 
-Happy coding! 🎉
-
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyeB&show_icons=true&count_private=true&hide_title=false&hide=prs&include_all_commits=true&hide_rank=true)](https://github.com/DivyeB) -->
 
 
