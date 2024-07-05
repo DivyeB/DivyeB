@@ -4,7 +4,6 @@
 - I’m looking to collaborate on some cool web development projects
 - 📧 divye.bajaj3184@gmail.com
 - [LinkedIn] www.linkedin.com/in/divyebajaj/
--
 
 <!---
 DivyeB/DivyeB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
