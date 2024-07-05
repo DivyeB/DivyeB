@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Divye Bajaj
 
-Welcome to my GitHub profile! 🚀 I'm a B.Tech student specializing in Mechanical Engineering with a focus on Electric Vehicles. I’m passionate about web development and programming, always eager to dive into new challenges and projects.
+Welcome to my GitHub profile! I'm a B.Tech student specializing in Mechanical Engineering with a focus on Electric Vehicles. I’m passionate about web development and programming, always eager to dive into new challenges and projects.
 
 ## 🌟 About Me
 I’m enthusiastic about applying and enhancing my technical skills in a dynamic environment. With a solid foundation in web development and intermediate Java programming skills, I’m excited to explore new technologies and collaborate on innovative projects.
@@ -24,7 +24,7 @@ I’m enthusiastic about applying and enhancing my technical skills in a dynamic
 - ![CATIA](https://img.shields.io/badge/-CATIA-FF0000?style=flat&logo=cad&logoColor=white)
 - ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
 
-### Design & Tools
+### Others
 - ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-FF0000?style=flat&logo=adobe&logoColor=white)
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
