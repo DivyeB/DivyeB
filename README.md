@@ -1,61 +1,23 @@
-# 👋 Hello! I'm Divye Bajaj
+<h1 align="center">Hi 👋, I'm Divye Bajaj</h1>
+<h3 align="center">Full Stack Web Developer | Java Programmer</h3>
 
-Welcome to my GitHub profile! I'm a B.Tech student specializing in Mechanical Engineering with a focus on Electric Vehicles. I’m passionate about web development and programming, always eager to dive into new challenges and projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyeb&label=Profile%20views&color=0e21b4&style=flat-square" alt="divyeb" /> </p>
 
-## 🌟 About Me
-I’m enthusiastic about applying and enhancing my technical skills in a dynamic environment. With a solid foundation in web development and intermediate Java programming skills, I’m excited to explore new technologies and collaborate on innovative projects.
+- 🌱 I’m currently learning **React.js, Data Structures & Algorithms**
 
-## 🛠️ Skills & Technologies
+- 📫 How to reach me **divye.bajaj3184@gmail.com**
 
-### Web Development
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1owMxurdddT2eztXZNPVmnaqbamuv34VT/view?usp=sharing](https://drive.google.com/file/d/1owMxurdddT2eztXZNPVmnaqbamuv34VT/view?usp=sharing)
 
-### Programming Languages
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/divyebajaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyebajaj" height="30" width="40" /></a>
+</p>
 
-### Engineering Tools
-- ![CATIA](https://img.shields.io/badge/-CATIA-FF0000?style=flat&logo=cad&logoColor=white)
-- ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### Others
-- ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-FF0000?style=flat&logo=adobe&logoColor=white)
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-- ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-- ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyeb&show_icons=true&locale=en&layout=compact" alt="divyeb" /></p>
 
-## 💼 Projects
-- **Simon Game (Memory-Based Online Game)**: 
-  - Developed an interactive memory-based game using JavaScript.
-  - Implemented arrays to generate random color sequences for enhanced gameplay.
-  - Designed intuitive game mechanics to boost user experience and engagement.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyeb&" alt="divyeb" /></p>
 
-- **User Data Storage Web App**: 
-  - Created a dynamic website with a data storage form using Node.js and Express.
-  - Integrated MailChimp API for efficient data management.
-  - Utilized Bootstrap for a modern and responsive frontend design.
-  - Designed the form to seamlessly integrate into company websites for promotional email database creation.
-
-## 🎓 Education
-- **Netaji Subhas University of Technology, Delhi**  
-  *B.Tech in Mechanical Engineering - Electric Vehicles*
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/divyebajaj)
-
-Feel free to browse my repositories and reach out if you have any cool projects or ideas. I’m always up for collaboration and learning new things!
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivyeB&show_icons=true&count_private=true&hide_title=false&hide=prs&include_all_commits=true&hide_rank=true)](https://github.com/DivyeB) -->
-
-
-
-<!---
-DivyeB/DivyeB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
