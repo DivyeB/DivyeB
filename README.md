@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **divye.bajaj3184@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1owMxurdddT2eztXZNPVmnaqbamuv34VT/view?usp=sharing](https://drive.google.com/file/d/1owMxurdddT2eztXZNPVmnaqbamuv34VT/view?usp=sharing)
+- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1oqBLyozxk1b_BSm-4QEQh3YiIxU0R8FX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
