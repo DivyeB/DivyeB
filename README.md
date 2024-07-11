@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Divye Bajaj</h1>
 <h3 align="center">Full Stack Web Developer | Java Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyeb&label=Profile%20views&color=0e21b4&style=flat-square" alt="divyeb" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyeb&label=Profile%20views&color=0e21b4&style=flat-square" alt="divyeb" /> </p>
 
 - 🌱 I’m currently learning **React.js, Data Structures & Algorithms**
 
 - 📫 How to reach me **divye.bajaj3184@gmail.com**
 
 - 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1b5DUMXsm3AaPG1pU9C_-n99pmXGuEru4/view?usp=sharing)
+
+- Hobbies: Experimenting with different operating systems
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
