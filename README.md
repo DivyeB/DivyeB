@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **divye.bajaj3184@gmail.com**
 
-- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1b5DUMXsm3AaPG1pU9C_-n99pmXGuEru4/view?usp=sharing)
+- 📄 Know about my experiences **[Open Resume](https://drive.google.com/file/d/1b5DUMXsm3AaPG1pU9C_-n99pmXGuEru4/view?usp=sharing)**
 
 - Hobbies: Experimenting with different operating systems
 
