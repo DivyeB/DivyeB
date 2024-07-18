@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **divye.bajaj3184@gmail.com**
 
-- 📄 **[Check Out My Resume!](https://drive.google.com/file/d/1b5DUMXsm3AaPG1pU9C_-n99pmXGuEru4/view?usp=sharing)**
+- 📄 **[Check Out My Resume!](https://drive.google.com/file/d/1GyFDVBWQlGtrsXa0-piy_OFEpSVcLwh5/view?usp=sharing)**
 
 - What do I do in my free time?: **Experiment with different operating systems, Learn DS & Algo, Think of more project ideas**
 
