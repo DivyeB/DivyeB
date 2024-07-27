@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divye Bajaj</h1>
-<h3 align="center">Full Stack Web Developer | Java Programmer</h3>
+<h3 align="center">Full Stack Web Developer | Java Programmer | Pursuing B.Tech from NSUT Delhi</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyeb&label=Profile%20views&color=0e21b4&style=flat-square" alt="divyeb" /> </p>
 
